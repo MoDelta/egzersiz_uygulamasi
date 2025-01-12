@@ -31,4 +31,5 @@ Kullanıcının oluşturduğu planları düzenleme ve silme seçeneği sunar.
 https://1drv.ms/f/s!AqETrMXLPIbngQoZbIMCTDMFxR0U?e=WRdnsw
 # Projemin youtube linki:
 https://www.youtube.com/watch?v=L3zQpauIUCM
-
+# Ekip üyesi :
+Nurlan Hasanov
